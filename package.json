@@ -1,0 +1,30 @@
+{
+  "name": "studytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://dnrlrl.github.io/studytest",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-study:dnrlrl/studytest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.2",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.59.2",
+    "typescript": "^4.9.5"
+  }
+}
